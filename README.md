@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @abhayhm
-- 👀 I’m interested in Firmware development, Machine learning for Embedded systems and Software development.
-- 🌱 I’m currently learning Linux internals and Machine learning.
-- 💞️ I’m looking to collaborate on C++ and Machine learning / Embedded projects.
-- 📫 You can reach me at 8892170185 or email me at abhayhmgi@gmail.com.
+- 👀 I’m interested in Machine learning for Embedded systems and Software development and Scalable systems.
+- 🌱 I’m currently learning Linux internals and Machine learning and Advance C++.
+- 💞️ I’m looking to collaborate on C++ and Machine learning / Software Development projects.
+- 📫 You can reach me at 8892170185 or email me at abhayham@gmail.com.
 
 
 <!---
